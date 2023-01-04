@@ -1,3 +1,4 @@
+
 # RIDOY-XD
 
  - `pkg update -y`
@@ -16,6 +17,9 @@
 - `pip install futures`
 - `pip2 install futures`
 - `pkg install git`
+
+- `💚Run Tool 💦`
+
 -  `rm -rf RIDOY-XD `
 - `git clone https://github.com/RIDOY-404-CYBER/RIDOY-XD `
 - `git pull `
