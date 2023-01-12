@@ -1,6 +1,6 @@
 import os,platform
 os.system('clear')
-print('[•] Checking Updates...')
+print('\033[1;34m[•] Checking Updates...')
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit=='64bit':
