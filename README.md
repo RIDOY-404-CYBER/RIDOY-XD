@@ -1,5 +1,6 @@
 
 # RIDOY-XD
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VERSION++%E2%91%86+8.0.1+PAID%F0%9F%94%A5;%F0%9F%92%9C%F0%9F%94%A5HATERS+FILL+ME+OKY+DON'T+SAD%F0%9F%94%A5;RMX+BRAND)](https://git.io/typing-svg)
 
  - `pkg update -y`
  - `pkg upgrade -y`
